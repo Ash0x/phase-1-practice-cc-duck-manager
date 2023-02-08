@@ -28,12 +28,12 @@
       "id": 5,
       "name": "Spiderduck",
       "img_url": "https://amsterdamduckstore.com/wp-content/uploads/2015/08/spidy-rubber-duck-leaning.jpg",
-      "likes": 8
+      "likes": 9
     },
     {
       "name": "ducky",
       "img_url": "https://images.unsplash.com/photo-1563409236302-8442b5e644df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZHVja3xlbnwwfHwwfHw%3D&w=1000&q=80",
-      "likes": 0,
+      "likes": 2,
       "id": 6
     },
     {
